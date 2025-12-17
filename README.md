@@ -156,7 +156,6 @@ npm start            # اجرای سرور
 ---
 
 ## 👤 توسعه‌دهنده
-
 **امیرحسین محمدی**
 *   گیت‌هاب: [AmirHMohammadi1](https://github.com/AmirHMohammadi1)
 *   لینکدین: [amirhmohammadi](https://www.linkedin.com/in/amirhmohammadi)
